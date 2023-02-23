@@ -35,7 +35,7 @@ function App() {
           path="/"
           element={
             <>
-              <Categories setCategory={setCategory} />
+              <Categories setCategory={setCategory} category={category} />
               {error ? (
                 <p className="error-message">{error}</p>
               ) : (
