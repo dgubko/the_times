@@ -30,14 +30,19 @@ function App() {
   return (
     <div className="App">
       <Header />
-
       <Routes>
         <Route
           path="/"
           element={
             <>
-              <Categories setCategory={setCategory} />
-              <CardContainer news={newsArticles.filter((item) => item.title)} />
+              <Categories setCategory={setCategory} category={category} />
+              {error ? (
+                <p className="error-message">{error}</p>
+              ) : (
+                <CardContainer
+                  news={newsArticles.filter((item) => item.title)}
+                />
+              )}
             </>
           }
         />

@@ -5,3 +5,9 @@
   grid-gap: 24px;
   grid-template-columns: repeat(2, 1fr);
 }
+
+.error-message {
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+}
