@@ -1,0 +1,13 @@
+.details-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  max-width: 1200px;
+  margin: auto;
+  & > img {
+    max-width: 60vh;
+    padding-top: 40px;
+  }
+}
