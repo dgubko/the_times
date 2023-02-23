@@ -13,7 +13,9 @@ export const Details = (props) => {
         <h3>{article.abstract}</h3>
         <p>Written: {article.byline}</p>
         <p>Created date: {article.created_date}</p>
-        <Link to={article.url}>Read full article</Link>
+        <Link to={article.url} target="_blank">
+          Read full article
+        </Link>
         <Link to="/">Go back</Link>
       </div>
     )
