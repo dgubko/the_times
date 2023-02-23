@@ -31,7 +31,7 @@ Solidify React, Cypress Testing, and Routers
 
 ## Deployed Link
 
-[The Times Newspaper](the-times.vercel.app)
+[The Times Newspaper](https://the-times.vercel.app/)
 
 ## Preview
 ### Main page
