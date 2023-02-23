@@ -1,0 +1,12 @@
+.categories {
+  display: flex;
+  justify-content: center;
+  max-width: 1200px;
+  margin: auto;
+  padding: 28px;
+  & > button {
+    margin-right: 12px;
+    text-transform: capitalize;
+    font-size: large;
+  }
+}
