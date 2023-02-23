@@ -34,6 +34,19 @@ Solidify React, Cypress Testing, and Routers
 [The Times Newspaper](the-times.vercel.app)
 
 ## Preview
+### Main page
+![Screenshot 2023-02-23 at 1 35 26 PM](https://user-images.githubusercontent.com/105132801/221024634-8bf48bde-c01c-40cb-a2e1-76625a7e7d8a.png)
+
+### Details
+![Screenshot 2023-02-23 at 1 35 37 PM](https://user-images.githubusercontent.com/105132801/221024781-dd3f6242-08aa-4424-a700-753f757412a1.png)
+
+### Page 404
+![Screenshot 2023-02-23 at 1 35 50 PM](https://user-images.githubusercontent.com/105132801/221024830-77befa01-4cd1-48a9-9030-dbb2b58a1d39.png)
+
+## Project planning
+### Figma slides
+![1](https://user-images.githubusercontent.com/105132801/221025136-8ca37168-15a6-4af9-a77e-0c250f5b2212.png)
+![2](https://user-images.githubusercontent.com/105132801/221025164-2384b759-75c8-4788-aedd-5d4ab63b135d.png)
 
 ## Contributors
 
