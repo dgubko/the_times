@@ -1,0 +1,170 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+  "section": "World News",
+  "last_updated": "2023-02-24T09:44:10-05:00",
+  "num_results": 39,
+  "results": [
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "Our Photographers in Ukraine on the Images They Can’t Forget",
+      "abstract": "In a year of war, New York Times photographers have reported from the front line, from cities and villages and in the footsteps of refugees. These pictures stayed with them.",
+      "url": "https://www.nytimes.com/2023/02/24/world/europe/ukraine-war-anniversary-photos.html",
+      "uri": "nyt://article/b5b9e596-db29-53cb-a2da-6e66a47e0dce",
+      "byline": "By The New York Times",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T10:03:08-05:00",
+      "created_date": "2023-02-24T03:00:23-05:00",
+      "published_date": "2023-02-24T03:00:23-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "Defense and Military Forces",
+        "Civilian Casualties",
+        "Refugees and Displaced Persons"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Russia", "Ukraine"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/14/autossell/Ukraine-fader-4/Ukraine-fader-4-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Laetitia Vancon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/14/autossell/Ukraine-fader-4/Ukraine-fader-4-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Laetitia Vancon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/14/autossell/Ukraine-fader-4/Ukraine-fader-4-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Laetitia Vancon for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ZcrNzc"
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "Fear, Anger, Love: See Ukrainians’ Texts From the First Hours of War",
+      "abstract": "On Feb. 24, 2022, many people in Ukraine were awakened by explosions, and others by the pings of anxious or supportive messages. Their exchanges that morning are a snapshot of a turning point in modern history.",
+      "url": "https://www.nytimes.com/interactive/2023/02/24/world/europe/ukraine-war-texts.html",
+      "uri": "nyt://interactive/4302f241-aede-543f-91ae-e9cee5d8e3ce",
+      "byline": "By Maria Varenikova and Gray Beltran",
+      "item_type": "Interactive",
+      "updated_date": "2023-02-24T09:21:17-05:00",
+      "created_date": "2023-02-24T05:26:10-05:00",
+      "published_date": "2023-02-24T05:26:10-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Russian Invasion of Ukraine (2022)"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Kyiv (Ukraine)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/world/ukraine-war-texts-promo/ukraine-war-texts-promo-superJumbo.png",
+          "format": "Super Jumbo",
+          "height": 948,
+          "width": 1458,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/world/ukraine-war-texts-promo/ukraine-war-texts-promo-threeByTwoSmallAt2X.png",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/world/ukraine-war-texts-promo/ukraine-war-texts-promo-thumbLarge.png",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3XYzIiw"
+    },
+    {
+      "section": "",
+      "subsection": "",
+      "title": "",
+      "abstract": "",
+      "url": "",
+      "uri": "nyt://promo/52db10b6-3b86-5ec5-9372-4129df897104",
+      "byline": "",
+      "item_type": "Promo",
+      "updated_date": "2023-02-24T11:55:30-05:00",
+      "created_date": "2023-02-24T05:36:06-05:00",
+      "published_date": "2023-02-24T05:36:06-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24ukraine-blog-header-bvqp/24ukraine-blog-header-bvqp-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Passengers riding a streetcar in Kyiv, Ukraine, on Wednesday.",
+          "copyright": "Emile Ducke for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24ukraine-blog-header-bvqp/24ukraine-blog-header-bvqp-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Passengers riding a streetcar in Kyiv, Ukraine, on Wednesday.",
+          "copyright": "Emile Ducke for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24ukraine-blog-header-bvqp/24ukraine-blog-header-bvqp-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Passengers riding a streetcar in Kyiv, Ukraine, on Wednesday.",
+          "copyright": "Emile Ducke for The New York Times"
+        }
+      ],
+      "short_url": ""
+    }
+  ]
+}

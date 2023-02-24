@@ -1,0 +1,124 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+  "section": "Arts",
+  "last_updated": "2023-02-24T12:04:05-05:00",
+  "num_results": 34,
+  "results": [
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "On Broadway, ‘Bad Cinderella’ Is a Rebel With a Brooklyn Accent",
+      "abstract": "Linedy Genao brings her whole Latina self to Andrew Lloyd Webber’s new musical, which also stars the stage veteran Carolee Carmello as her evil stepmother.",
+      "url": "https://www.nytimes.com/2023/02/24/theater/bad-cinderella-broadway.html",
+      "uri": "nyt://article/22b9ab36-89a4-5161-a116-f96a24a40a0d",
+      "byline": "By Sarah Bahr",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T05:00:24-05:00",
+      "created_date": "2023-02-24T05:00:24-05:00",
+      "published_date": "2023-02-24T05:00:24-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Bad Cinderella (Play)", "Theater", "Theater (Broadway)"],
+      "org_facet": ["Imperial Theater (Manhattan, NY)"],
+      "per_facet": [
+        "Carmello, Carolee",
+        "Genao, Linedy",
+        "Lloyd Webber, Andrew",
+        "Fennell, Emerald"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26BAD-CINDERELLA-gfct/26BAD-CINDERELLA-gfct-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1463,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In “Bad Cinderella,” Carolee Carmello, left, plays the evil stepmother, and Linedy Genao, right, is the rebellious title character. They both found their way to the stage after earning business degrees.",
+          "copyright": "Evelyn Freja for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26BAD-CINDERELLA-gfct/26BAD-CINDERELLA-gfct-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In “Bad Cinderella,” Carolee Carmello, left, plays the evil stepmother, and Linedy Genao, right, is the rebellious title character. They both found their way to the stage after earning business degrees.",
+          "copyright": "Evelyn Freja for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26BAD-CINDERELLA-gfct/26BAD-CINDERELLA-gfct-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In “Bad Cinderella,” Carolee Carmello, left, plays the evil stepmother, and Linedy Genao, right, is the rebellious title character. They both found their way to the stage after earning business degrees.",
+          "copyright": "Evelyn Freja for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3knPZQq"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "‘Cocaine Bear’ Review: She Never Forgets Her Lines",
+      "abstract": "The greatest joke of this blood-spattered horror-comedy from Elizabeth Banks is that it exists.",
+      "url": "https://www.nytimes.com/2023/02/24/movies/cocaine-bear-review.html",
+      "uri": "nyt://article/1519d0c3-8693-5234-95f3-081e31fb94dd",
+      "byline": "By Jason Zinoman",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T11:15:40-05:00",
+      "created_date": "2023-02-24T11:15:40-05:00",
+      "published_date": "2023-02-24T11:15:40-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Movies", "Cocaine Bear (Movie)"],
+      "org_facet": [],
+      "per_facet": [
+        "Banks, Elizabeth",
+        "Russell, Keri",
+        "Liotta, Ray",
+        "Martindale, Margo",
+        "Whitlock, Isiah Jr"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/cocaine-bear1-fqzg/cocaine-bear1-fqzg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1076,
+          "width": 1912,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Keri Russell in “Cocaine Bear.”",
+          "copyright": "Pat Redmond/Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/cocaine-bear1-fqzg/cocaine-bear1-fqzg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Keri Russell in “Cocaine Bear.”",
+          "copyright": "Pat Redmond/Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/cocaine-bear1-fqzg/cocaine-bear1-fqzg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Keri Russell in “Cocaine Bear.”",
+          "copyright": "Pat Redmond/Universal Pictures"
+        }
+      ],
+      "short_url": "https://nyti.ms/3EAcqce"
+    }
+  ]
+}
