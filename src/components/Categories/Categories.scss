@@ -1,11 +1,13 @@
 .categories {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   max-width: 1200px;
   margin: auto;
   padding: 28px;
   & > button {
     margin-right: 12px;
+    margin-bottom: 8px;
     text-transform: capitalize;
     font-size: large;
     border: none;
