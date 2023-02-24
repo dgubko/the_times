@@ -3,7 +3,8 @@
   margin: auto;
   display: grid;
   grid-gap: 24px;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(auto-fill, minmax(580px, 1fr));
+  padding: 40px;
 }
 
 .error-message {
