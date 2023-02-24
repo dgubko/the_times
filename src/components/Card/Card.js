@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 export const Card = (props) => {
   return (
     <div className="card">
-      <img src={props.multimedia[2].url}></img>
+      {props.multimedia && <img src={props.multimedia[2].url} />}
       <div>
         <h3 className="title">{props.title}</h3>
         <p className="abstact">{props.abstract}</p>

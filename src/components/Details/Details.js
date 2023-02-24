@@ -8,7 +8,7 @@ export const Details = (props) => {
   return (
     article && (
       <div className="details-main">
-        <img src={article.multimedia[1].url} />
+        {article.multimedia && <img src={article.multimedia[1].url} />}
         <h1>{article.title}</h1>
         <h3>{article.abstract}</h3>
         <p>Written: {article.byline}</p>
